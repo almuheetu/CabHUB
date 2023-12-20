@@ -81,6 +81,7 @@ body {
 
 header {
   background: url(/img/Header/header-bg.jpg);
+  background-repeat: no-repeat;
   padding: 25px 0;
 }
 
