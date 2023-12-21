@@ -123,3 +123,9 @@ header .header-info h1 {
 header .header-info p {
   letter-spacing: 7px;
 }
+.navbar-brand {
+	padding-left: 40px;
+}
+.navbar-nav {
+	padding-right: 40px;
+}
