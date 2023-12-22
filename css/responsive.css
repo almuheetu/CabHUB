@@ -26,6 +26,15 @@
 }
 /*-------------------------------------------------------------------------*/
 @media(max-width:480px){
+  header .header-info h1 {
+    font-size: 40px;
+  }
+  header .header-info p {
+    letter-spacing: 5px;
+  }
+  .pb-5, .py-5 {
+    padding-bottom: 0rem !important;
+  }
 }
 /*-------------------------------------------------------------------------*/
 @media(max-width:320px){
@@ -41,6 +50,9 @@
   }
   .header-info {
     margin-top: 40px;
+  }
+  .pb-5, .py-5 {
+    padding-bottom: 0rem !important;
   }
 }
 /*-------------------------------------------------------------------------*/
