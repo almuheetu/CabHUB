@@ -129,3 +129,6 @@ header .header-info p {
 .navbar-nav {
 	padding-right: 40px;
 }
+.pb-5, .py-5 {
+	padding-bottom: 4rem !important;
+}
