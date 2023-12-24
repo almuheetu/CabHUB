@@ -83,6 +83,7 @@ header {
   background: url(/img/Header/header-bg.jpg);
   background-repeat: no-repeat;
   padding-top: 50px;
+  height: 739px;
 }
 
 .navbar-dark .navbar-nav .show>.nav-link,
