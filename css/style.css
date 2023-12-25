@@ -145,3 +145,11 @@ header .header-info p {
 	text-transform: uppercase;
 	margin-top: 30px;
 }
+.cab-head {
+	font-size: 53px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #101010;
+	margin-bottom: 35px;
+	margin-top: 15px;
+}
