@@ -158,4 +158,10 @@ header .header-info p {
 	color: #101010;
 	font-weight: normal;
 	text-transform: none;
+	margin-bottom: 40px;
+}
+.btn-dark {
+	color: #fff;
+	background-color: #101010;
+	border-color: #343a40;
 }
