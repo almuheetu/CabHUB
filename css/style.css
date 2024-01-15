@@ -165,3 +165,16 @@ header .header-info p {
 	background-color: #101010;
 	border-color: #343a40;
 }
+.cab-para {
+	font-size: 18px;
+	color: #101010;
+	font-weight: normal;
+	text-transform: none;
+	margin-bottom: 30px;
+}
+.btn-dark {
+	color: #fff;
+	background-color: #101010;
+	border-color: #343a40;
+}
+
